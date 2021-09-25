@@ -1,10 +1,10 @@
-**Desenvolvido em pair com [Daniel](https://github.com/DS1lva).**
+**Desenvolvido em pair com [Paulo](https://github.com/paulo14simoes).**
 
 As informações usadas no projeto foram retiradas deste site: https://www.es.gov.br/governo/palacio-anchieta
 
 ## Github Pages
 
-https://paulo14simoes.github.io
+https://ds1lva.github.io/
 
 ## O que é git?
 
